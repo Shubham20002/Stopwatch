@@ -16,3 +16,4 @@ Reset button
 
 
 
+![Document - Google Chrome 06-07-2023 18_00_27](https://github.com/Shubham20002/Stopwatch/assets/88579345/2da8861a-230c-46fb-890d-5730deea1e12)
